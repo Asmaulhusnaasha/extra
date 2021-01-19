@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.menu-bar{
+    background-color:#202c40 ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+.menu-bar li{
+    display: inline-block;
+    border-radius: 6%;
+}
+.menu-bar li a{
+    padding: 10px 10px;
+    color: white;
+    text-decoration: none;
+   
+}
+.menu-bar li i{
+    color: white;
+    padding: 10px;
+}
+.active, .menu-bar li:hover {
+    background-color:#86b38b ;
+    transition: all .10 linear;
+}
+.section-2 li:hover{
+    border-top: 4px solid rgb(54, 255, 47);
+    border-bottom:4px solid rgb(54, 255, 47); 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
